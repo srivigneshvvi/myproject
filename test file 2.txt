@@ -1,2 +1,2 @@
 test file 2 
-edit in branch 2
+ branch 2 changes in branch 2
